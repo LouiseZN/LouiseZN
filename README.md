@@ -17,7 +17,7 @@
 
 ### 🛠️ Tech Stack
 - **Languages**: Python, Java, SQL  
-- **Tools**: Pandas, NumPy, Matplotlib, Scikit-Learn, Git  
+- **Tools**: Pandas, NumPy, Matplotlib, Scikit-Learn, Git, Seaborn, Plotly
 - **Other**: Jupyter, VS Code, Linux Shell  
 
 ---
